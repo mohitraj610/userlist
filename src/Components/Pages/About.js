@@ -6,11 +6,10 @@ const About = () => {
       <div className="py-4">
         <h1>About Page</h1>
         <p className="lead">
-          Hi, my name is Mohit Raj. I am from Patna.My department in IIT
+          Hi, my name is Mohit Raj. I am from Patna. My department in IIT
           Kharagpur is Mechanical Engineering. Currently, I am enrolled in its
           dual degree course with specialization in Manufacturing science and
-          engineering. My hobbies are cricket, table tennis. I enjoy solving
-          puzzles and coding problems. I also like to listen to Hindi Poetry.
+          engineering. I enjoy solving puzzles and coding problems.
         </p>
       </div>
     </div>
